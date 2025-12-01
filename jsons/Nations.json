@@ -18,7 +18,7 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "TEMP",
-		"uniques": ["[Starts with [Placeholder]"],
+		"uniques": ["Starts with [Placeholder]"],
 		"cities": ["London"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -40,7 +40,7 @@
 		"outerColor": [0, 79, 206], 
 		"innerColor": [234, 225, 157],
 		"uniqueName": "TEMP",
-		"uniques": ["[Starts with [Placeholder]"],
+		"uniques": ["Starts with [Placeholder]"],
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -62,7 +62,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 79, 206],
 		"uniqueName": "TEMP",
-		"uniques": ["[Starts with [Placeholder]"],
+		"uniques": ["Starts with [Placeholder]"],
 		"cities": ["Lisbon"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
