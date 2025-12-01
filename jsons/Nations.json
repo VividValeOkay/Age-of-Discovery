@@ -2,7 +2,7 @@
 	{
 		//nations
 		"name": "British Empire",
-		"leaderName": "Temp",
+		"leaderName": "Elizabeth I",
 		"adjective": ["British"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "Kingdom of France",
-		"leaderName": "Temp",
+		"leaderName": "Francis I",
 		"adjective": ["French"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
