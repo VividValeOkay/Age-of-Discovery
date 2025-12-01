@@ -18,7 +18,6 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Colonial Power",
-		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["London"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -40,7 +39,6 @@
 		"outerColor": [0, 79, 206], 
 		"innerColor": [234, 225, 157],
 		"uniqueName": "Colonial Power",
-		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -62,7 +60,6 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 79, 206],
 		"uniqueName": "Colonial Power",
-		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["Lisbon"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -85,6 +82,7 @@
 		"outerColor": [224, 176, 85],
 		"innerColor": [94, 74, 36],
 		"uniqueName": "Uncivilised Society",
+		"uniques": ["Starts with [Tribalism] adopted"]
 		"cities": ["Cuzco"],
 	},
 ]
