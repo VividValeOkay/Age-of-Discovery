@@ -1,9 +1,9 @@
 [
 	{
 		//nations
-		"name": "British Empire",
+		"name": "Kingdom of England",
 		"leaderName": "Elizabeth I",
-		"adjective": ["British"],
+		"adjective": ["English"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
