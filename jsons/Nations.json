@@ -18,7 +18,7 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Colonial Power",
-		"cities": ["London"],
+		"cities": ["London","Birmingham","Liverpool","Bristol","Manchester","Sheffield","Leeds","Leicester","Coventry","Bradford","Nottingham","Kingston upon Hull","Newcastle upon Tyne","Stoke-on-Trent","Southampton","Derby","Portsmouth","Brighton"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
 	{
@@ -39,7 +39,7 @@
 		"outerColor": [0, 79, 206], 
 		"innerColor": [234, 225, 157],
 		"uniqueName": "Colonial Power",
-		"cities": ["Paris"],
+		"cities": ["Paris","Marseille","Lyon","Rouen","Bordeaux","Toulouse","Lille","Nantes","Dijon","Rennes","Strasbourg","Montpellier","Orléans","Aix-en-Provence","Tours","Grenoble","Amiens","Reims"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
     {
@@ -60,7 +60,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 79, 206],
 		"uniqueName": "Colonial Power",
-		"cities": ["Lisbon"],
+		"cities": ["Lisbon","Porto","Coimbra","Braga","Évora","Guimarães","Viseu","Santarém","Leiria","Faro","Beja","Aveiro","Bragança","Lamego","Viana do Castelo"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
 // TRIBES
