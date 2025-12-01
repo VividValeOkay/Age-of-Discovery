@@ -25,6 +25,7 @@
 				"name": "Placeholder",
 				"row": 8,
 				"prerequisites": ["Agriculture"],
+				"uniques": ["Unavailable"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 			}
 		]
