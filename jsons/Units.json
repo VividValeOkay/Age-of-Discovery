@@ -38,7 +38,7 @@
 		"strength": 15,
 		"cost": 40,
 		"requiredTech": "Advanced Technology",
-		"uniques": ["[+50]% Strength <vs [Scout] units>]"],
+		"uniques": ["[+50]% Strength <vs [Scout] units>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -49,7 +49,7 @@
 		"rangedStrength": 13,
 		"cost": 30,
 		"requiredTech": "Advanced Technology",
-		"uniques": ["[+50]% Strength <vs [Scout] units>]","[-50]% Strength <when defending>"],
+		"uniques": ["[+50]% Strength <vs [Scout] units>","[-50]% Strength <when defending>"],
 		"attackSound": "arrow"
 	},
 ]
