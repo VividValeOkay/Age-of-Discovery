@@ -38,7 +38,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Dark Ages Construction",
+				"name": "D. Ages Construction",
 				"row": 3,
 				"prerequisites": ["Advanced Technology"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
