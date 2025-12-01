@@ -5,10 +5,10 @@
 		"leaderName": "Elizabeth I",
 		"adjective": ["English"],
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You fiend! History shall remember this!",
-		"introduction": "Welcome to the Kingdom of England!",
+		"declaringWar": "Let tyrants fear.",
+		"attacked": "Those who would touch the scepters of rulers deserve no pity.",
+		"defeated": "The rest... is silence.",
+		"introduction": "I am Elizabeth, Queen of Britannia, and only seek the most noble and stalwart allies.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -17,7 +17,7 @@
 
 		"outerColor": [202, 20, 21],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "TEMP",
+		"uniqueName": "Colonial Power",
 		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["London"],
         "spyNames": ["Bob","Simon","Sarah"]
@@ -39,7 +39,7 @@
 
 		"outerColor": [0, 79, 206], 
 		"innerColor": [234, 225, 157],
-		"uniqueName": "TEMP",
+		"uniqueName": "Colonial Power",
 		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
@@ -61,7 +61,7 @@
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 79, 206],
-		"uniqueName": "TEMP",
+		"uniqueName": "Colonial Power",
 		"uniques": ["Starts with [Advanced Technology]"],
 		"cities": ["Lisbon"],
         "spyNames": ["Bob","Simon","Sarah"]
@@ -72,10 +72,10 @@
 		"leaderName": "People's",
 		"adjective": ["Incan"],
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You fiend! History shall remember this!",
-		"introduction": "Welcome to Tawantinsuyu!",
+		"declaringWar": "Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.",
+		"attacked": "Now is the time for war. Hear the stamp of our warriors—warriors with the hearts of the puma.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"introduction": "You stand before Pachacuti Inca Yupanqui. I accept your greeting and the service you can provide the Tawantinsuyu.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
