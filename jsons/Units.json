@@ -58,7 +58,7 @@
 		"movement": 4,
 		"strength": 10,
 		"cost": 40,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Dark Ages Shipbuilding",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
