@@ -78,7 +78,7 @@
 			{
 				"name": "Early Architecture",
 				"row": 3,
-				"prerequisites": ["Advanced Technology"],
+				"prerequisites": ["D. Ages Construction","Dark Ages Science"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius",
 			},
 		]
