@@ -52,4 +52,14 @@
 		"uniques": ["[+50]% Strength <vs [Scout] units>","[-50]% Strength <when defending>"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
+	},
 ]
