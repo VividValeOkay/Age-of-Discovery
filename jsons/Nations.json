@@ -42,4 +42,25 @@
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
+    {
+		"name": "Kingdom of Portugal",
+		"leaderName": "John III",
+		"adjective": ["Portuguese"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"introduction": "Welcome to the Kingdom of Portugal!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I hope this deal will receive your blessing.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 79, 206],
+		"uniqueName": "TEMP",
+		"cities": ["Lisbon"],
+        "spyNames": ["Bob","Simon","Sarah"]
+	},
 ]
