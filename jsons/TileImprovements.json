@@ -2,7 +2,7 @@
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"food": 1,
+		"food": 3,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
@@ -15,13 +15,13 @@
 		"name": "Pasture",
 		"turnsToBuild": 8,
 		"techRequired": "Agriculture",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Trading post",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
-		"gold": 6,
+		"gold": 4,
 		"turnsToBuild": 7,
 		"techRequired": "Dark Ages Wealth",
 		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"],
