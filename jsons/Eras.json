@@ -15,5 +15,19 @@
         "startPercent": 0,
         "citySound": "cityMedieval",
         "iconRGB": [157, 39, 176]
+    },
+    {
+        "name": "Late Dark Ages",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Scout",
+        "settlerPopulation": 3,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [157, 39, 176]
     }
 ]
