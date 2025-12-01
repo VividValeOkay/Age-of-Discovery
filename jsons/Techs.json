@@ -22,7 +22,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Placeholder",
+				"name": "Advanced Technology",
 				"row": 8,
 				"prerequisites": ["Agriculture"],
 				"uniques": ["Unavailable"],
