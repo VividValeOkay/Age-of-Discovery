@@ -18,6 +18,7 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "TEMP",
+		"uniques": "[Starts with [Placeholder]]",
 		"cities": ["London"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -39,6 +40,7 @@
 		"outerColor": [0, 79, 206], 
 		"innerColor": [234, 225, 157],
 		"uniqueName": "TEMP",
+		"uniques": "[Starts with [Placeholder]]",
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
 	},
@@ -60,7 +62,29 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 79, 206],
 		"uniqueName": "TEMP",
+		"uniques": "[Starts with [Placeholder]]",
 		"cities": ["Lisbon"],
         "spyNames": ["Bob","Simon","Sarah"]
+	},
+// TRIBES
+    {
+		"name": "Tawantinsuyu",
+		"leaderName": "People's",
+		"adjective": ["Incan"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"introduction": "Welcome to Tawantinsuyu!",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I hope this deal will receive your blessing.",
+
+		"outerColor": [224, 176, 85],
+		"innerColor": [94, 74, 36],
+		"uniqueName": "Uncivilised Society",
+		"cities": ["Cuzco"],
 	},
 ]
