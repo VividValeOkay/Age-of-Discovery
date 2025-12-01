@@ -23,6 +23,11 @@
                 "row": 1,
                 "column": 1
             },
-        ],
+            {
+                "name": "Tribalism Complete",
+                "uniques": [
+                    "Get the leader title of [Tribal [leaderName]]"
+                ]
+            }
+        ]
     },
-]
