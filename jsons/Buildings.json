@@ -22,6 +22,7 @@
 		"name": "Sawmill",
 		"production": 4,
 		"cost": 80,
+		"requiredTech": "D. Ages Construction",
 		"uniques": ["[+1 Production] <in [Forest] tiles>"]
 	},
 ]
