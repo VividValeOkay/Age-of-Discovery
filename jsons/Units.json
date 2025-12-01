@@ -60,7 +60,7 @@
 		"cost": 40,
 		"requiredTech": "Dark Ages Shipbuilding",
 		"upgradesTo": "Caravel",
-		"obsoleteTech": "Combustion",
+		"obsoleteTech": "Astronomy",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
@@ -70,7 +70,7 @@
 		"movement": 6,
 		"strength": 16,
 		"cost": 90,
-		"requiredTech": "Dark Ages Shipbuilding",
+		"requiredTech": "Astronomy",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"attackSound": "cannon"
 	},
