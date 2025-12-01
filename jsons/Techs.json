@@ -30,4 +30,37 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 1,
+		"era": "Late Dark Ages",
+		"techCost": 30,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Dark Ages Construction",
+				"row": 3,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+			}
+			{
+				"name": "Dark Ages Science",
+				"row": 1,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+			}
+			{
+				"name": "Dark Ages Wealth",
+				"row": 5,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+			}
+			{
+				"name": "Dark Ages Warfare",
+				"row": 7,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+			}
+		]
+	},
 ]
