@@ -45,5 +45,6 @@
 		"cityHealth": 25,
 		"cost": 120,
 		"requiredTech": "Dark Ages Warfare",
+		"uniques": ["Destroyed when the city is captured"]
 	},
 ]
