@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Late Dark Ages",
+		"era": "Ancient Times",
 		"techCost": 30,
 		"buildingCost": 60,
 		"wonderCost": 185,
@@ -11,6 +11,21 @@
 				"row": 8,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 0,
+		"era": "Late Dark Ages",
+		"techCost": 30,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Placeholder",
+				"row": 8,
+				"prerequisites": ["Agriculture"],
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 			}
 		]
 	},
