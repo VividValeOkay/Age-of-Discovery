@@ -47,4 +47,10 @@
 		"requiredTech": "Dark Ages Warfare",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Market",
+		"gold": 6,
+		"cost": 80,
+		"requiredTech": "Dark Ages Wealth",
+	},
 ]
