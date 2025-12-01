@@ -60,6 +60,27 @@
 				"prerequisites": ["Advanced Technology"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
 			}
+			{
+				"name": "Dark Ages Shipbuilding",
+				"row": 9,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+			},
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Age of Discovery",
+		"techCost": 60,
+		"buildingCost": 90,
+		"wonderCost": 240,
+		"techs": [
+			{
+				"name": "Early Architecture",
+				"row": 3,
+				"prerequisites": ["Advanced Technology"],
+				"quote": "'Architecture begins where engineering ends.' - Walter Gropius",
+			},
 		]
 	},
 ]
