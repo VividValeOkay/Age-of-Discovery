@@ -49,6 +49,15 @@
 		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"
 	},
+	{
+		"name": "Fishing Boats",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"food": 3,
+		"techRequired": "Agriculture",
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "F"
+	},
 // MISC
 	{
 		"name": "City ruins",
