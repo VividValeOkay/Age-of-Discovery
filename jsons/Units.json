@@ -25,10 +25,31 @@
 		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 5,
+		"strength": 8,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Man-at-arms",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 40,
+		"requiredTech": "Advanced Technology",
+		"uniques": ["[+50]% Strength <vs [Scout] units>]"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 13,
+		"cost": 30,
+		"requiredTech": "Advanced Technology",
+		"uniques": ["[+50]% Strength <vs [Scout] units>]","[-50]% Strength <when defending>"],
+		"attackSound": "arrow"
 	},
 ]
