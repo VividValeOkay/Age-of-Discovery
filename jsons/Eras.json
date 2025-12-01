@@ -15,5 +15,19 @@
         "startPercent": 0,
         "citySound": "cityMedieval",
         "iconRGB": [157, 39, 176]
+    },
+    {
+        "name": "Age of Discovery",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Man-at-arms",
+        "settlerPopulation": 6,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityRenaissance",
+        "iconRGB": [104, 58, 183]
     }
 ]
