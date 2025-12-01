@@ -15,8 +15,8 @@
 
 		"tradeRequest": "I hope this deal will receive your blessing.",
 
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
+		"outerColor": [202, 20, 21],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "TEMP",
 		"cities": ["London"],
         "spyNames": ["Bob","Simon","Sarah"]
@@ -36,8 +36,8 @@
 
 		"tradeRequest": "I hope this deal will receive your blessing.",
 
-		"outerColor": [213,249,255], 
-		"innerColor": [27,53,63],
+		"outerColor": [0, 79, 206], 
+		"innerColor": [234, 225, 157],
 		"uniqueName": "TEMP",
 		"cities": ["Paris"],
         "spyNames": ["Bob","Simon","Sarah"]
