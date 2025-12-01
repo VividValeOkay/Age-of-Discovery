@@ -1,0 +1,19 @@
+[
+    // Source: the fandom, so take these with a grain of salt
+    // I also did some testing in the official version, but by far not all
+
+    {
+        "name": "Late Dark Ages",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Man-at-arms",
+        "settlerPopulation": 3,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [157, 39, 176]
+    }
+]
