@@ -4,6 +4,7 @@
 		"name": "Kingdom of England",
 		"leaderName": "Elizabeth I",
 		"adjective": ["English"],
+		"startBias": ["Coast"],
 
 		"declaringWar": "Let tyrants fear.",
 		"attacked": "Those who would touch the scepters of rulers deserve no pity.",
@@ -25,6 +26,7 @@
 		"name": "Kingdom of France",
 		"leaderName": "Francis I",
 		"adjective": ["French"],
+		"startBias": ["Avoid [Desert]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -40,12 +42,13 @@
 		"innerColor": [234, 225, 157],
 		"uniqueName": "Colonial Power",
 		"cities": ["Paris","Marseille","Lyon","Rouen","Bordeaux","Toulouse","Lille","Nantes","Dijon","Rennes","Strasbourg","Montpellier","Orléans","Aix-en-Provence","Tours","Grenoble","Amiens","Reims"],
-        "spyNames": ["Bob","Simon","Sarah"]
+        "spyNames": ["Jean-Paul","Martine","Lucien","François"]
 	},
     {
 		"name": "Kingdom of Portugal",
 		"leaderName": "John III",
 		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -67,6 +70,7 @@
 		"name": "Kingdom of Spain",
 		"leaderName": "Philip II",
 		"adjective": ["Spanish"],
+		"startBias": ["Plains"],
 
 		"declaringWar": "You have been judged for your sins. And now you will expiate them! ... May God have pity on your soul.",
 		"attacked": "This is absurd, are you declaring war on us? Do you ignore the power of the Invincible Armada?",
